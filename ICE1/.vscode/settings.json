@@ -1,0 +1,11 @@
+{
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "ICE1DB",
+            "database": "${workspaceFolder:ICE1}/ICE1DB"
+        }
+    ]
+}
